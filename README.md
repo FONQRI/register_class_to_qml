@@ -1,3 +1,3 @@
 # register_class_to_qml
-This is a simple example of architecture for connecting between c++ and qml when your program has a c++ core and you need to keep it like that and only add qml ui into it.
+This is a simple example of registering class in qml from c++.
 [Read More](http://moderncpp.ir/post/114)
